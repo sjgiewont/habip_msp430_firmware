@@ -1,0 +1,1 @@
+"./imu_read_2.obj" "../lnk_msp430fr5994.cmd" -llibmath.a -llibc.a 
